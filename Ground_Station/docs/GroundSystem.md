@@ -11,7 +11,7 @@ Even tho ISRO (or any other space agency you colaborate with for your statlite p
 
 ## AWS ground station
 Amazon Webservices (AWS) provide you with a groundsystem that you can use, they have locations all over the globe and have a pay as you go scheme with no minimul requirements and charge by the minute.
-
+if you wanna watch a short video on aws you can watch it [here](https://www.youtube.com/watch?v=pWzDdmASlA8)
 ### Amazon AWS vs self made ground station 
 
 | |Amazon AWS | Self Made Ground Station|
