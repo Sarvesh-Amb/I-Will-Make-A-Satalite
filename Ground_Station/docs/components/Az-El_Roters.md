@@ -18,6 +18,7 @@
 * Self made motor : lower cost but requires extensive tinkering and waterproofing
 
 | | commercial System | Self-made System |
+| :--- | :--- | :--- |
 | cost | 80,000 - 90,000 rupees | lower cost (variable) |
 | compexity | pre made | have to figure out mechanical tikering and waterproofing |
 | options | dual axel satalite roters (e.g : aesu G-5500DC. ) | heavy-duty photographic pan-tilt heads, heavy industrial stepper motors, or 3D-printed/metal gearboxes, open-source code like K3NG rotator |
