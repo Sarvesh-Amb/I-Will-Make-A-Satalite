@@ -5,6 +5,7 @@
 
 ##if you wanna buy it
 * not available online as e-commers platforms are not allowed to transport highly pressureized gases
+* there are different laws for distributors to import flameable gasses ( which you can find [here](https://peso.gov.in/web/en/import-cylinders-and-valves))
 * you will need to buy it locally for a PESO approved distributor
 * under the PESO guildlines, storage of pressurized flameable gases under 200kg or 25 cylinders (whichever is lower) you not going to have to follow HEAVY PESO storage guidlines
 * however, the dealer will still require verification, proper transport arrangements, adhearing to safty protocols like keeping the cylinder away from spark or open fames
